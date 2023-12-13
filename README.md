@@ -1,16 +1,48 @@
-### Hi there 👋
+👋 Hi, I'm Arthur Choisnet
 
-<!--
-**monsieurgoodmood/monsieurgoodmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast with a vibrant journey from entrepreneurship in the culinary world to mastering Data Science at Le Wagon 🚂. 
+My experiences span from digital marketing to innovative AI projects, reflecting my adaptability and passion for technology and data.
 
-Here are some ideas to get you started:
+🚀 **My Projects:**
+- Epicure AI: Developed a YOLOv8 machine learning model to detect ingredients and generate recipes using OpenAI. 
+              Utilized Docker, Google Cloud/GPU, Yolov8, Roboflow, OpenCV, and Ultralytics.
+- Locksmith SMS Automation: Implemented a Python-based system for a locksmith to send automated SMS responses using Selenium, HTTP requests, and ChromeDriver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **What I've Learned:**
+- Data Science & AI at Le Wagon: Enhanced skills in Python, machine learning, AI, and cloud technologies.
+- Developed proficiency in tools like Docker, Git, GitHub, OpenCV, FastAPI, Streamlit and Google Cloud Platform.
+- Gained hands-on experience in MLOps, supervised and unsupervised learning, and machine learning algorithms.
+
+🛠️ **Skills:**
+- Languages: Python, SQL
+- Tools: TensorFlow, Keras, Scikit-Learn, Docker, Git, GitHub
+- Platforms: Google Cloud Platform, OpenCV, Roboflow, Shopify, WordPress
+- Specialties: Data Analysis, Machine Learning, Deep Learning, Data Visualization, Web Development, Marketing Analytics (SEA, SEO, Google Analytics)
+
+💡 **My Journey:**
+- Transitioned from running a restaurant to diving into the digital marketing world in Dublin.
+- Grew as a Strategic Agency Manager at Google, enhancing my skills in Google Analytics, SEO, and SEA.
+- Embraced freelancing, providing digital solutions and automating operations with Python.
+
+📚 **Education:**
+- Le Wagon: Data Science & AI Bootcamp, mastering Python, Machine Learning, AI.
+- Business School Graduate: Blending business acumen with tech.
+
+🌟 **My Vision:**
+- Passionate about blending technology with practical solutions, I aim to innovate and solve real-world problems through data-driven approaches.
+- Always eager to learn, grow and contribute to the field of Data Science.
+
+📈 **Looking Forward:**
+- As a junior data scientist, I'm eager to learn and apply my diverse skills and experiences to new challenges in data science.
+- I believe in the power of data to revolutionize industries and improve lives.
+
+🙊 **Fun Fact:**
+From managing a restaurant to diving into data, my journey is a blend of diverse experiences, each adding a unique flavor to my skill set!
+
+📫 **Let's Connect**
+Feel free to reach out to me for collaborations, projects, or just a chat about data science!
+
+Email: arthur.choisnet74@gmail.com
+LinkedIn: [Arthur's LinkedIn](https://www.linkedin.com/in/arthur-choisnet/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=monsieurgoodmood)](https://github.com/ryo-ma/github-profile-trophy)
