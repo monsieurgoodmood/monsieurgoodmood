@@ -1,4 +1,4 @@
-👋 Hi, I'm Arthur Choisnet
+# 👋 Hi, I'm Arthur Choisnet
 
 I'm a data enthusiast with a vibrant journey from entrepreneurship in the culinary world to mastering Data Science at Le Wagon 🚂. 
 My experiences span from digital marketing to innovative AI projects, reflecting my adaptability and passion for technology and data.
