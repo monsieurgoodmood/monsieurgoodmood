@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Arthur Choisnet
 
+📫 **Let's Connect**
+Feel free to reach out to me for collaborations, projects, or just a chat about data science!
+Email: arthur.choisnet74@gmail.com
+LinkedIn: [Arthur's LinkedIn](https://www.linkedin.com/in/arthur-choisnet/)
+
 I'm a data enthusiast with a vibrant journey from entrepreneurship in the culinary world to mastering Data Science at Le Wagon 🚂. 
 My experiences span from digital marketing to innovative AI projects, reflecting my adaptability and passion for technology and data.
 
@@ -38,11 +43,5 @@ My experiences span from digital marketing to innovative AI projects, reflecting
 
 🙊 **Fun Fact:**
 From managing a restaurant to diving into data, my journey is a blend of diverse experiences, each adding a unique flavor to my skill set!
-
-📫 **Let's Connect**
-Feel free to reach out to me for collaborations, projects, or just a chat about data science!
-
-Email: arthur.choisnet74@gmail.com
-LinkedIn: [Arthur's LinkedIn](https://www.linkedin.com/in/arthur-choisnet/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=monsieurgoodmood)](https://github.com/ryo-ma/github-profile-trophy)
